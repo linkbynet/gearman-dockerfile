@@ -1,2 +1,6 @@
 # gearman-dockerfile
-Gearman with persistent storage
+
+Dockerfile to run gearman with or without persitent storage.
+
+
+Check files/start.sh to get the env var you can use.

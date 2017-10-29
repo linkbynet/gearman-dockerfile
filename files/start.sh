@@ -1,5 +1,5 @@
 #!/bin/bash
-gearman="gearmand -L 0.0.0.0"
+gearman="gearmand"
 
 case "${QUEUE_TYPE}" in
 	'mysql')
